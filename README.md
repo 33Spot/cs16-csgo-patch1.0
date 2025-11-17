@@ -8,3 +8,4 @@ patches:
 6. [hl_csgo_9_patch_wywal_linki.tar.gz](https://github.com/33Spot/cs16-csgo-patch1.0/raw/refs/heads/main/hl_csgo_9_patch_wywal_linki.tar.gz)
 7. [z_hl_csgo_9_12G_patch2_VD.tar.gz](https://github.com/33Spot/cs16-csgo-patch1.0/raw/refs/heads/main/z_hl_csgo_9_12G_patch2_VD.tar.gz)
 8. [z_hl_csgo_9_12G_patch3_launcher_menu.tar.gz](https://github.com/33Spot/cs16-csgo-patch1.0/raw/refs/heads/main/z_hl_csgo_9_12G_patch3_launcher_menu.tar.gz)
+9. [hl_csgo_9_patch_waypointy2.tar.gz](https://github.com/33Spot/cs16-csgo-patch1.0/raw/refs/heads/main/hl_csgo_9_patch_waypointy2.tar.gz)
